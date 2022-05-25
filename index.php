@@ -1,4 +1,3 @@
-
 <?php
 //PHP code to sent contact form to both client and owner
 if (isset($_POST['submit'])) { //Check if user enter data 
