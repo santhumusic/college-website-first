@@ -100,20 +100,7 @@ if (isset($_POST['submit'])) { //Check if user enter data
 </select></td>
 </tr>
 
-<form
-  action="https://formspree.io/f/xbjwqnby"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="santhigithub@gmail.com" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="your admission registration is successful ✅"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit"></button>
 </form>
 </form>
 </tr>
